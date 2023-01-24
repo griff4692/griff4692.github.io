@@ -1,7 +1,6 @@
 ---
 title: "Clinical Acronym Expansion via Latent Meaning Cells"
 collection: publications
-permalink: /publication/lmc
 excerpt: 'We introduce Latent Meaning Cells, a deep latent variable model which learns contextualized representations of words by combining local lexical context and metadata.'
 date: 2020-12-11
 paperurl: http://proceedings.mlr.press/v136/adams20a/adams20a.pdf

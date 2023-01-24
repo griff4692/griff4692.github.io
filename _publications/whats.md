@@ -1,7 +1,6 @@
 ---
 title: "What's in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization"
 collection: publications
-permalink: /publication/whats
 excerpt: ' Exploratory analyses reveal that the BHC paragraphs are highly abstractive with some long extracted fragments; are concise yet comprehensive; differ in style and content organization from the source notes; exhibit minimal lexical cohesion; and represent silver-standard references.'
 date: 2021-6
 paperurl: https://aclanthology.org/2021.naacl-main.382/
