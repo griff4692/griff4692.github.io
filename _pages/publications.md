@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a list on <u><a href="https://scholar.google.com/citations?user=ZxKRzugAAAAJ&hl=en">Google Scholar</a>.</u>
+You can find an up to date list on <u><a href="https://scholar.google.com/citations?user=ZxKRzugAAAAJ&hl=en">Google Scholar</a>.</u>
 
 {% include base_path %}
 
