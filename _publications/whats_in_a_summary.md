@@ -1,5 +1,5 @@
 ---
-title: "What's in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization"
+title: "Whats in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization"
 collection: publications
 excerpt: 'Excerpt: Exploratory analyses reveal that the the Brief Hospital Course section of the discharge summary is highly abstractive with some long extracted fragments; is concise yet comprehensive; differs in style and content organization from the source notes; exhibits minimal lexical cohesion; and represents silver-standard references for summarization.'
 date: 2021-06-01
