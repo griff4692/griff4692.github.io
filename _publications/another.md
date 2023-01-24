@@ -1,9 +1,9 @@
 ---
-title: "Learning to Revise References for Faithful Summarization"
+title: "What's in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization"
 collection: publications
-excerpt: 'Excerpt: To improve reference quality while retaining all data, we propose a new approach: to selectively rewrite unsupported reference sentences to better reflect source data. We automatically generate a synthetic dataset of positive and negative revisions by corrupting supported sentences and learn to revise reference sentences with contrastive learning. The intensity of revisions is treated as a controllable attribute so that, at inference, diverse candidates can be over-generated-then-rescored to balance faithfulness and abstraction.'
-date: 2022-12-07
-paperurl: https://www.amazon.science/publications/learning-to-revise-references-for-faithful-summarization
-venue: 'Findings of the 2022 Conference on Empirical Methods in Natural Language Processing'
-citation: 'Adams, G., Shing, H. C., Sun, Q., Winestock, C., McKeown, K., & Elhadad, N. (2022). Learning to Revise References for Faithful Summarization. Findings of the 2022 Conference on Empirical Methods in Natural Language Processing.'
+excerpt: 'Excerpt: Exploratory analyses reveal that the the Brief Hospital Course section of the discharge summary is highly abstractive with some long extracted fragments; is concise yet comprehensive; differs in style and content organization from the source notes; exhibits minimal lexical cohesion; and represents silver-standard references for summarization.'
+date: 2021-06-01
+paperurl: https://aclanthology.org/2021.naacl-main.382
+venue: 'Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies'
+citation: 'Adams, G., Alsentzer, E., Ketenci, M., Zucker, J., & Elhadad, N. (2021, June). What\'s in a Summary? Laying the Groundwork for Advances in Hospital-Course Summarization. In Proceedings of the conference. Association for Computational Linguistics. North American Chapter. Meeting (Vol. 2021, p. 4794).'
 ---
