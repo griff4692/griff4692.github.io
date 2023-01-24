@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Dartmouth College, 2010-2014 (Phi Beta Kappa)
+* M.S. in Computational Data Science, Carnegie Mellon University, 2014
+* Ph.D in Computer Science, Columbia University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2022 - Aug 2022: NLP Research Intern
+  * Microsoft Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun 2021 - Dec 2021: NLP Research Intern
+  * Amazon Web Services (AWS) - Comprehend Medical
+
+* Jan 2018 - Aug 2019: Machine Learning Software Engineer
+  * Flatiron Health
+
+* Sep 2015 - Jul 2016: Rapid Protoypes Software Developer
+  * IBM Watson
+
+* Jul 2014 - Apr 2015: Markets Analyst 
+  * Deutsche Bank
 
 Publications
 ======
@@ -54,6 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other Research Involvement
 ======
-* Currently signed in to 43 different slack teams
+* Co-Organized ML4H Workshop at NeurIPS 2020 and helped create and run the first publication mentorship program.
+* Co-Organizing the MEDIQA-Chat Tasks @ ACL-ClinicalNLP 2023.
