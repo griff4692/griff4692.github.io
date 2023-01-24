@@ -2,7 +2,7 @@
 title: "What are the Desired Characteristics of Calibration Sets? Identifying Correlates on Long Form Scientific Summarization"
 collection: publications
 permalink: /publication/correlates
-excerpt: 'To improve reference quality while retaining all data, we propose a new approach: to selectively rewrite unsupported reference sentences to better reflect source data. We automatically generate a synthetic dataset of positive and negative revisions by corrupting supported sentences and learn to revise reference sentences with contrastive learning. The intensity of revisions is treated as a controllable attribute so that, at inference, diverse candidates can be over-generated-then-rescored to balance faithfulness and abstraction.'
+excerpt: 'On three diverse scientific long-form summarization datasets (spanning biomedical, clinical, and chemical domains), we find, among others, that faithfulness calibration is optimal when the negative sets are extractive and more likely to be generated, whereas for relevance calibration, the metric margin between ranked candidates should be maximized and surprise minimized.'
 date: 2022-12-20
 paperurl: https://openreview.net/forum?id=bIC0BfWzCs
 venue: Preprint. Under Review.
