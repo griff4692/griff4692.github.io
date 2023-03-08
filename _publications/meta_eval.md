@@ -6,6 +6,5 @@ excerpt: 'We benchmark faithfulness metrics against fine-grained human annotatio
 date: 2023-3-7
 paperurl: https://arxiv.org/abs/2303.03948
 venue: Arxiv Preprint
-citation: 'Adams, G., Zucker, J., Elhadad, N. A Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course Summarization
-.'
+citation: 'Adams, G., Zucker, J., Elhadad, N. A Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course Summarization.'
 ---
