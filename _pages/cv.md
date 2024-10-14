@@ -40,26 +40,3 @@ Work experience
 
 * Jul 2014 - Apr 2015: Markets Analyst 
   * Deutsche Bank
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Other Research Involvement
-======
-* Co-Organized ML4H Workshop at NeurIPS 2020 and helped create and run the first publication mentorship program.
-* Co-Organizing the MEDIQA-Chat Tasks @ ACL-ClinicalNLP 2023.
